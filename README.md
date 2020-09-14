@@ -1,2 +1,4 @@
-# TBOI
-Info on my Isaac mod :)
+# Active Item Rebalance
+## 2-Charge
+- Head of Krampus
+- Monster Manual
