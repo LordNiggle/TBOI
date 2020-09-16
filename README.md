@@ -1,7 +1,7 @@
 # Active Item Rebalance
 ### 2-Charge
-- Head of Krampus
+- Head of Krampus 
 - Monster Manual
 # Passive Item Rebalance
 ### Damage
-- Haemolacria gives an additional 2x Damage Mult
+- Haemolacria has a 2.66x Damage Mult (Previously 1.33x)
