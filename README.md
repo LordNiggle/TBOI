@@ -5,3 +5,5 @@
 # Passive Item Rebalance
 ### Damage
 - Haemolacria has a 2.66x Damage Mult (Previously 1.33x)
+# Character Rebalance
+- Samson holds Lusty Blood instead of Bloody Lust
